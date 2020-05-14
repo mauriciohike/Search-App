@@ -1,5 +1,7 @@
 # Github User Search App
 
+[![made with hearth by mauriciohike](https://img.shields.io/badge/made%20with%20%F0%9F%92%9B%20by-mauriciohike-%237159c1)](https://github.com/mauriciohike)
+
 The purpose of this app is to retrieve informations of Github's users and show them in a good looking page.
 
 ## Getting Started
@@ -14,9 +16,6 @@ Then access the port **localhost:8080/**
 ## Tech/framework used
 
 [Vue.js](https://vuejs.org/) with [ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-
-Was wondering of which Front-End Framework/Lib to use. I opted by **Vue** for the **simplicity**, easy **componentization** and the simplest implementation of **Flux** (in my opinion).
-
 
 
 ## Design
